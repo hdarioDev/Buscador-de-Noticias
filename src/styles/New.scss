@@ -1,0 +1,47 @@
+@import "vars";
+
+.new-article {
+  width: 240px;
+  min-height: 240px;
+  background-color: rgb(138, 188, 190);
+  padding: 12px;
+  border-radius: 20px;
+  position: relative;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+}
+
+.new-article img {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.new-article a {
+  position: absolute;
+  top: 96%;
+  background-color: var(--secundary);
+  padding: 8px;
+  color: var(--white);
+  text-decoration: none;
+  font-weight: 400;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.new-article p {
+  margin-bottom: 12px;
+}
+
+.new-article span {
+  color: var(--white-cyan);
+  font-weight: 400;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  border: 1px solid  #f2f5fa;
+  padding: 6px;
+  border-radius: 6px;
+}

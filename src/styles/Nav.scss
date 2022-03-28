@@ -1,0 +1,9 @@
+@import "vars";
+nav {
+  background-color: var(--secundary);
+  color: var(--white);
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

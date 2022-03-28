@@ -1,0 +1,18 @@
+@import "vars";
+
+.list--container {
+  background-color: var(--black-cyan);
+  // padding-top: 30px;
+  // padding-bottom: 30px;
+  padding-top: 24px;
+  padding-bottom: 40px;
+}
+
+.list--container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 262px);
+  gap: 36px;
+  place-content: center;
+  font-weight: 200;
+  min-width: 320px;
+}
