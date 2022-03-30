@@ -26,7 +26,7 @@ https://newsapi.org/
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-https://awesome-einstein-7bbbe4.netlify.app
+https://sensational-pithivier-e34aee.netlify.app
 
 ## Install
 
@@ -48,8 +48,8 @@ npm run build
 
 ## Screenshots Responsive
 
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/Noticias.png?raw=true)
+![App Screenshot](https://github.com/hdarioDev/assets/blob/main/News.png?raw=true)
 
 ## Authors
 
-- [@hdariodev](https://www.github.com/hdariodev)
+- [@hdariodev](https://www.hdariodev.com)
